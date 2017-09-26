@@ -1,0 +1,4 @@
+index.php.bak
+index.php.backup
+index.php.bk
+index.txt
